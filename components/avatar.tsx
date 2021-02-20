@@ -14,8 +14,6 @@ const Avatar = ({ name, picture, url }: Props) => {
         <a
           href={url}
           className="underline hover:text-success duration-200 transition-colors"
-          rel="noopener noreferrer"
-          target="_blank"
         >
           {name}
         </a>
