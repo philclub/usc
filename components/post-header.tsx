@@ -29,7 +29,7 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
             url={author.url}
           />
         </div>
-        <div className="mb-6 text-lg">
+        <div className="mb-6 font-light italic text-lg">
           <DateFormatter dateString={date} />
         </div>
       </div>
