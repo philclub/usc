@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://usc.philclub.org/blog</id>
+    <title>USC Philosophy Club Blog</title>
+    <updated>2021-02-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://usc.philclub.org/blog"/>
+    <subtitle>USC Philosophy Club Blog</subtitle>
+    <icon>https://usc.philclub.org/img/p-icon-64x64.png</icon>
+    <entry>
+        <title type="html"><![CDATA[We're on Discord]]></title>
+        <id>discord</id>
+        <link href="https://usc.philclub.org/blog/discord"/>
+        <updated>2021-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We moved to Discord. Come join us for all flavors of philosophy!]]></summary>
+    </entry>
+</feed>
