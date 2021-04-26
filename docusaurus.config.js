@@ -14,6 +14,11 @@ module.exports = {
   onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   themeConfig: {
+    announcementBar: {
+      id: 'announcement',
+      content:
+        'This website is in its early stages of development. All content is subject to change or removal.',
+    },
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
