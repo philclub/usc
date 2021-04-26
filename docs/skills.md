@@ -20,7 +20,7 @@ image: img/p-icon-512x512.png
 
 ## Logic
 
-Formal logic is very important for long-term success in academic philosophy. Many professors, such as Prof. Shieva Kleinschmit, Director of Undergraduate Studies, [recommend](./guides.md) taking logic courses as soon as you can, preferably this semester or next semester. Get started on your own with propositional and predicate logic at [USC Logic Web](https://dornsife.usc.edu/USCLogicWeb).
+Formal logic is very important for long-term success in academic philosophy. Many professors recommend taking logic courses as soon as you can, preferably this semester or next semester. Get started on your own with propositional and predicate logic at [USC Logic Web](https://dornsife.usc.edu/USCLogicWeb).
 
 ## Sharing your work
 

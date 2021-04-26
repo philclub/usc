@@ -42,10 +42,10 @@ module.exports = {
           ],
         },
         {
-          label: 'Guides',
+          label: 'Advice',
           position: 'left',
           items: [
-            { to: '/guides/', label: 'General' },
+            { to: '/advice/', label: 'General' },
             { to: '/skills/', label: 'Skills' },
             { to: '/careers/', label: 'Careers' },
             {
@@ -99,11 +99,11 @@ module.exports = {
           ],
         },
         {
-          title: 'Guides',
+          title: 'Advice',
           items: [
             {
               label: 'General',
-              to: '/guides/',
+              to: '/advice/',
             },
             {
               label: 'Skills',
@@ -196,6 +196,7 @@ module.exports = {
             from: ['/general-resources/'],
           },
           { to: '/participate/', from: ['/get-involved/'] },
+          { to: '/advice/', from: ['/guides/'] },
         ],
       },
     ],

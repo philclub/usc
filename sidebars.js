@@ -10,8 +10,8 @@ module.exports = {
       'graduate-students',
       'syllabi',
     ],
-    Guides: [
-      'guides',
+    Advice: [
+      'advice',
       'skills',
       'careers',
       {
