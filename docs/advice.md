@@ -1,11 +1,11 @@
 ---
 slug: advice/
 id: advice
-title: General advice for philosophy majors
+title: General Advice and Information for Philosophy Majors
 hide_title: false
 hide_table_of_contents: false
 sidebar_label: General
-description: General advice for philosophy majors
+description: General Advice and Information for Philosophy Majors
 keywords:
   - usc
   - university of southern california
@@ -14,7 +14,7 @@ keywords:
   - club
   - philosophy club
   - phil club
-  - General advice for philosophy majors
+  - General Advice and Information for Philosophy Majors
 image: img/p-icon-512x512.png
 ---
 
