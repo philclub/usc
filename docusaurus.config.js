@@ -15,9 +15,9 @@ module.exports = {
   onDuplicateRoutes: 'throw',
   themeConfig: {
     announcementBar: {
-      id: 'announcement',
+      id: 'disclaimer-1',
       content:
-        'This website is in its early stages of development. All content is subject to change or removal.',
+        '👋🏼 This website is unofficial and may be incorrect, inaccurate, or outdated. Please read our <a href="/about/#disclaimer">disclaimer</a>. For the most up-to-date information, visit the <a target="_blank" rel="noopener noreferrer" href="https://dornsife.usc.edu/phil/">official Dornsife website</a>. 👋🏼',
     },
     colorMode: {
       defaultMode: 'light',
