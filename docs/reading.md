@@ -33,13 +33,14 @@ Reading philosophy is one of the best ways to learn more philosophy.
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html)
 - [International Encyclopedia of Philosophy](https://iep.utm.edu/home/about/)
 
-#### Databases
+#### Databases and Libraries
 
 - [USC Libraries](https://libraries.usc.edu/) (USC login required)
 - [JSTOR](https://www-jstor-org.libproxy2.usc.edu/) (USC login required)
 - [Oxford Scholarship Online](https://oxford-universitypressscholarship-com.libproxy2.usc.edu/) (USC login required)
 - [Oxford Handbooks](https://www-oxfordhandbooks-com.libproxy2.usc.edu/) (USC login required)
 - [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) (Libgen)
+- Your local public library (e.g., [Los Angeles Public Library](https://www.lapl.org/))
 
 ### Requesting more resources
 
