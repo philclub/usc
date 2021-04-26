@@ -47,4 +47,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ## License
 
-Copyright (C) 2021, Theodore Chu and Individual Contributors. The source code of the website is licensed under the [MIT License](./LICENSE). The content in the `.md` files in the `docs` folder is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted. The content in the `.md` files in the `blog` is copyrighted with All Rights Reserved by the author of the file as indicated at the top of the file (the `yaml` metadata).
+Copyright (C) 2021, Theodore Chu and Individual Contributors. The source code of the website is licensed under the [MIT License](./LICENSE). The content in the `.md` files in the `docs` folder is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted. The content in the `.md` files in the `blog` folder is copyrighted with All Rights Reserved by the author of the file as indicated at the top of the file (in the `yaml` metadata).
