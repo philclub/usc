@@ -8,7 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[We're on Discord]]></title>
+            <title><![CDATA[Join us on Discord]]></title>
             <link>https://usc.philclub.org/blog/discord/</link>
             <guid>discord/</guid>
             <pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate>
