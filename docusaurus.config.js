@@ -197,6 +197,8 @@ module.exports = {
           {
             to: '/applying-to-graduate-school-gps/',
             from: [
+              '/before-applying-to-graduate-school/',
+              '/after-applying-to-graduate-school/',
               '/applying-to-graduate-school-before/',
               '/applying-to-graduate-school/',
               '/applying-to-graduate-school-after/',
