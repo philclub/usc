@@ -10,20 +10,7 @@ module.exports = {
       'graduate-students',
       'syllabi',
     ],
-    Advice: [
-      'advice',
-      'skills',
-      'careers',
-      {
-        type: 'category',
-        label: 'Graduate School',
-        items: [
-          'applying-to-graduate-school-before',
-          'applying-to-graduate-school',
-          'applying-to-graduate-school-after',
-        ],
-      },
-    ],
+    Advice: ['advice', 'skills', 'careers', 'applying-to-graduate-school-gps'],
     About: ['about', 'contact'],
   },
 };

@@ -54,16 +54,8 @@ module.exports = {
             { to: '/skills/', label: 'Skills' },
             { to: '/careers/', label: 'Careers' },
             {
-              to: '/before-applying-to-graduate-school/',
-              label: 'Before Applying to Graduate School',
-            },
-            {
-              to: '/applying-to-graduate-school/',
+              to: '/applying-to-graduate-school-gps/',
               label: 'Applying to Graduate School',
-            },
-            {
-              to: '/after-applying-to-graduate-school/',
-              label: 'After Applying to Graduate School',
             },
           ],
         },
@@ -202,6 +194,14 @@ module.exports = {
           },
           { to: '/participate/', from: ['/get-involved/'] },
           { to: '/advice/', from: ['/guides/'] },
+          {
+            to: '/applying-to-graduate-school-gps/',
+            from: [
+              '/applying-to-graduate-school-before/',
+              '/applying-to-graduate-school/',
+              '/applying-to-graduate-school-after/',
+            ],
+          },
         ],
       },
     ],
