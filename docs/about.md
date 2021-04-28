@@ -22,9 +22,7 @@ image: img/p-icon-512x512.png
 
 The USC Philosophy Club is an informal discussion group. We discuss all areas of philosophy and welcome students from all majors. Please [join us on Discord](https://usc.philclub.org/discord/) to get more information about the schedule of the meetings.
 
-## Website
-
-This website was created by [Theodore Chu](https://theochu.com) to make philosophy more inclusive, welcoming, and enjoyable for all current and future students of philosophy. Its aim is to provide information and resources about the USC School of Philosophy, academic philosophy as an industry, and philosophy as an academic discipline.
+This website was created to make philosophy more inclusive, welcoming, and enjoyable for all current and future students of philosophy. Its aim is to provide information and resources about the USC School of Philosophy, academic philosophy as an industry, and philosophy as an academic discipline.
 
 ## Disclaimer
 
